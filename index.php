@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title> Happy Birthday Priya </title>
+	<title> Happy Birthday </title>
 
 	  <meta charset="utf-8">
 	  <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -14,18 +14,6 @@
 	  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
 </head>
 <body>
-<!--
-
-  _    _          _____  _______     __  ____ _____ _____ _______ _    _ _____      __     __  _____  _____  _______     __       
- | |  | |   /\   |  __ \|  __ \ \   / / |  _ \_   _|  __ \__   __| |  | |  __ \   /\\ \   / / |  __ \|  __ \|_   _\ \   / //\     
- | |__| |  /  \  | |__) | |__) \ \_/ /  | |_) || | | |__) | | |  | |__| | |  | | /  \\ \_/ /  | |__) | |__) | | |  \ \_/ //  \    
- |  __  | / /\ \ |  ___/|  ___/ \   /   |  _ < | | |  _  /  | |  |  __  | |  | |/ /\ \\   /   |  ___/|  _  /  | |   \   // /\ \   
- | |  | |/ ____ \| |    | |      | |    | |_) || |_| | \ \  | |  | |  | | |__| / ____ \| |    | |    | | \ \ _| |_   | |/ ____ \  
- |_|  |_/_/    \_\_|    |_|      |_|    |____/_____|_|  \_\ |_|  |_|  |_|_____/_/    \_\_|    |_|    |_|  \_\_____|  |_/_/    \_\ 
-
-
--->
-
 
 <!-- Desktop Page -->
 
@@ -83,7 +71,7 @@
 				<div class="header">
 					<b>
 						<span class="txt-rotate" data-period="2000" 
-										data-rotate='["HAPPY BIRTHDAY PRIYA","STAY BLESSED!"]'>
+										data-rotate='["HAPPY BIRTHDAY","STAY BLESSED!"]'>
 						</span>
 					</b>
 					<button class = "reply-button" data-toggle = "modal" data-target = "#popupwindow"><b><i class="fas fa-reply"></i> Send a Reply</b></button>
